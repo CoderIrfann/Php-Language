@@ -1,3 +1,4 @@
 <?php
-echo "Hello Php"
+echo "Hello Php \n";
+echo 2+2;
 ?>
